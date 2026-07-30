@@ -1,6 +1,8 @@
-2027 届计算机科学与技术本科生
+# 赵旭春
 
-我有 PC/H5 商业项目开发与自测经历，能够完成需求拆解、页面实现、接口联调、异常排查和交付自测。企业项目源码不公开，主页仓库仅展示脱敏后的业务演示与课程项目。
+2027 届计算机科学与技术本科生，方向为前端开发 / 软件测试 / 软件开发。
+
+具备 PC/H5 商业项目开发与自测经历，可完成需求拆解、页面实现、接口联调、异常排查和交付自测。企业项目仅公开脱敏重建后的演示版本，不包含企业接口、账号、数据库或真实业务数据。
 
 ## 技术栈
 
@@ -13,14 +15,13 @@
 
 | 项目 | 技术 | 简介 |
 | --- | --- | --- |
-| [视频学习系统](https://github.com/zhao-frontend/video-learning-system) | JavaScript、HTML5 Video、Fetch | 学习进度缓存、节流保存、点赞收藏乐观更新与失败回滚 |
-| [双角色身份认证](https://github.com/zhao-frontend/auth-system) | JavaScript、Canvas、FormData | 配置驱动表单、图片压缩、文件上传与异常状态处理 |
+| [养殖智能平台](https://github.com/zhao-frontend/farming-intelligence-platform) · [在线预览](https://zhao-frontend.github.io/farming-intelligence-platform/) | JavaScript、ECharts、轮询 | 首页指标、任务计划、报警筛选与报警转任务闭环 |
+| [视频学习系统](https://github.com/zhao-frontend/video-learning-system) · [在线预览](https://zhao-frontend.github.io/video-learning-system/) | JavaScript、HTML5 Video、Fetch | 进度节流缓存、点赞收藏乐观更新与失败回滚 |
+| [双角色身份认证](https://github.com/zhao-frontend/auth-system) · [在线预览](https://zhao-frontend.github.io/auth-system/) | JavaScript、Canvas、FormData | 配置驱动表单、图片压缩、文件上传与异常状态处理 |
 | [Java Socket 聊天室](https://github.com/zhao-frontend/java-socket-chat) | Java、Socket、并发容器 | 群聊、私聊、在线列表和断线处理 |
 | [C++ 图书管理系统](https://github.com/zhao-frontend/cpp-library-manager) | C++17、STL、文件持久化 | 图书、用户、借阅记录管理与库存边界校验 |
 
-
-
 ## 联系方式
 
-- Email: [15532357292@163.com](mailto:15532357292@163.com)
-- GitHub: [github.com/zhao-frontend](https://github.com/zhao-frontend)
+- Email: 15532357292@163.com
+- GitHub: https://github.com/zhao-frontend
